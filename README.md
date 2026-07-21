@@ -9,7 +9,7 @@ Building reliable, scalable, and impactful software with Java, React, Flutter, F
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;React.js+Developer;Flutter+Developer;Building+Reliable+Software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;Flutter+Developer;React.js+Developer;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
