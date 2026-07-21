@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Chudasama</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • Android Developer
+Software Engineer | Java Developer | Full Stack Developer
 </h3>
 
 <p align="center">
@@ -11,11 +11,7 @@ Passionate about building scalable, reliable, and impactful software using Java,
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;Flutter+Developer;React.js+Developer;Always+Learning+Something+New"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vivek-Chudasama&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;React.js+Developer;Flutter+Developer;Spring+Boot+Learner;Open+Source+Enthusiast"/>
 </p>
 
 ---
@@ -23,13 +19,14 @@ Passionate about building scalable, reliable, and impactful software using Java,
 # 👨‍💻 About Me
 
 - 🎓 MCA Graduate
-- 💻 Full Stack Developer
-- ☕ Java Developer
+- 💻 Passionate about Software Engineering
+- ☕ Strong foundation in Java and Object-Oriented Programming
+- 🌐 Full Stack Developer with React & Firebase
 - 📱 Flutter & Android Developer
-- ⚛️ React.js Developer
-- ☁️ Firebase Backend Developer
-- 🌱 Currently learning **Spring Boot**, **System Design**, and advanced **DSA in Java**
-- 🚀 Passionate about solving real-world problems through software
+- ☁️ Experienced with Firebase Authentication, Firestore, Storage & Cloud Functions
+- 📚 Actively improving Data Structures & Algorithms
+- 🌱 Currently learning Spring Boot, System Design and Backend Development
+- 🚀 Love building real-world software that solves practical problems
 
 ---
 
@@ -59,53 +56,56 @@ Passionate about building scalable, reliable, and impactful software using Java,
 
 ## 🧺 WashMate
 
-A complete Full-Stack Laundry Management Platform built with modern technologies.
+A Full-Stack Laundry Management Platform built using Flutter, React and Firebase.
 
-### Features
+### Key Features
 
 - 📱 Flutter Android Application
 - 🖥️ React Admin Dashboard
 - 🏪 Laundry Owner Portal
 - 🔐 Firebase Authentication
-- ☁️ Cloud Firestore Database
-- 🔔 Firebase Cloud Messaging
+- ☁️ Cloud Firestore
 - 📦 Firebase Storage
-- ⚡ Cloud Functions
-- 💳 Wallet & Premium Membership
+- 🔔 Firebase Cloud Messaging
+- ⚡ Firebase Cloud Functions
+- 💳 Premium Membership & Wallet
 - 📍 Real-Time Order Tracking
+- 📋 Order & Customer Management
 
 ---
 
-# 📊 GitHub Stats
+# 📂 Other Projects
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek-Chudasama&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Chudasama&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 💻 Java
 
----
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Core Java Projects
 
-# 🔥 GitHub Streak
+### ⚛️ React
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Vivek-Chudasama&theme=tokyonight&hide_border=true"/>
-</p>
+- Responsive Web Applications
+- Firebase Integrated Dashboards
+- Modern UI Development
 
----
+### 📱 Flutter
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-Chudasama&theme=tokyo-night"/>
-</p>
+- Android Applications
+- Firebase Integration
+- Clean UI & State Management
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek-Chudasama&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+- ☕ Java
+- 🌱 Spring Boot
+- ⚙️ Backend Development
+- 🏗️ System Design
+- 🧠 Data Structures & Algorithms
+- ⚛️ React.js
+- 📱 Flutter
 
 ---
 
@@ -114,30 +114,18 @@ A complete Full-Stack Laundry Management Platform built with modern technologies
 <p align="left">
 
 <a href="https://github.com/Vivek-Chudasama">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
-
----
-
-# 💡 Current Focus
-
-- 🚀 Software Engineering
-- ☕ Java Development
-- ⚛️ React.js
-- 📱 Flutter
-- 🌱 Spring Boot
-- 🧠 Data Structures & Algorithms
-- ☁️ Cloud & Backend Development
 
 ---
 
