@@ -1,74 +1,69 @@
-<h1 align="center">
-Hi 👋, I'm Vivek Chudasama
-</h1>
+<h1 align="center">Hi 👋, I'm Vivek Chudasama</h1>
 
 <h3 align="center">
 Software Engineer | Java Developer | Full Stack Developer
 </h3>
 
 <p align="center">
-Building reliable, scalable and impactful software with Java, React, Flutter and Firebase.
+Building reliable, scalable, and impactful software with Java, React, Flutter, Firebase, and modern backend technologies.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;React.js+Developer;Flutter+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1500&pause=500&color=2563EB&center=true&vCenter=true&width=760&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;React.js+Developer;Flutter+Developer;Building+Reliable+Software"/>
 </p>
 
 <p align="center">
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vivek.official743@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vivek-chudasama743">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Vivek-Chudasama">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 MCA Graduate
-- 💻 Software Engineer passionate about building scalable software solutions.
-- ☕ Strong foundation in Java, OOP and Data Structures.
-- 🌐 Full Stack Developer using React.js and Firebase.
-- 📱 Flutter & Android Developer.
-- ☁️ Experienced with Firebase Authentication, Firestore, Cloud Functions and Storage.
-- 🌱 Currently learning Spring Boot, Backend Development and System Design.
-- 🚀 Passionate about solving real-world problems through software.
+- 🎓 MCA Graduate passionate about Software Engineering.
+- ☕ Strong foundation in Java, Object-Oriented Programming, and Data Structures & Algorithms.
+- 🌐 Full Stack Developer with React.js, Firebase, and modern web technologies.
+- 📱 Flutter & Android Developer with experience building production-ready applications.
+- ☁️ Experienced with Firebase Authentication, Cloud Firestore, Cloud Functions, Firebase Storage, and FCM.
+- 🌱 Currently learning Spring Boot, Backend Development, System Design, and Advanced DSA.
+- 🚀 Passionate about solving real-world problems through scalable and reliable software.
+
+## 📫 Reach Me
+
+- 📧 **Email:** **vivek.official743@gmail.com**
+- 💼 **LinkedIn:** **www.linkedin.com/in/vivek-chudasama743**
+- 🌐 **GitHub:** **https://github.com/Vivek-Chudasama**
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,javascript,dart,html,css,mysql"/>
-
 </p>
 
 ### Frameworks & Technologies
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,flutter,firebase,nodejs"/>
-
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
-
 </p>
 
 ---
@@ -77,20 +72,21 @@ Building reliable, scalable and impactful software with Java, React, Flutter and
 
 ## 🧺 WashMate
 
-A Full-Stack Laundry Management Platform built with Flutter, React and Firebase.
+A Full-Stack Laundry Management Platform built using Flutter, React, and Firebase.
 
 ### Highlights
 
-- 📱 Flutter Android App
-- 🖥 React Admin Dashboard
+- 📱 Flutter Android Application
+- 🖥️ React Admin Dashboard
 - 🏪 Laundry Owner Portal
 - 🔐 Firebase Authentication
-- ☁️ Firestore Database
-- 🔔 Push Notifications
-- ⚡ Cloud Functions
+- ☁️ Cloud Firestore Database
+- ⚡ Firebase Cloud Functions
 - 📦 Firebase Storage
-- 💳 Premium Membership
-- 📍 Live Order Tracking
+- 🔔 Firebase Cloud Messaging (FCM)
+- 💳 Premium Membership & Wallet
+- 📍 Real-Time Order Tracking
+- 📋 Order & Customer Management
 
 ---
 
@@ -103,7 +99,7 @@ A Full-Stack Laundry Management Platform built with Flutter, React and Firebase.
 - Data Structures & Algorithms
 - Problem Solving
 
-### ⚛️ React
+### ⚛️ React.js
 
 - Responsive Web Applications
 - Firebase Integration
@@ -118,24 +114,28 @@ A Full-Stack Laundry Management Platform built with Flutter, React and Firebase.
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Current Focus
 
-- Spring Boot
-- Backend Development
-- System Design
-- Advanced DSA
-- Software Architecture
+- ☕ Java
+- 🌱 Spring Boot
+- ⚙️ Backend Development
+- 🏗️ System Design
+- 🧠 Data Structures & Algorithms
+- ⚛️ React.js
+- 📱 Flutter
 
 ---
 
 <p align="center">
 
-<i>"Committed to continuous learning and thoughtful engineering, transforming ideas into reliable, practical and impactful software solutions."</i>
+### 💬 Quote
+
+*"Committed to continuous learning and thoughtful engineering, transforming ideas into reliable, practical, and impactful software solutions."*
 
 </p>
 
+---
+
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:3B82F6,100:0F172A"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,100:0F172A"/>
 </p>
